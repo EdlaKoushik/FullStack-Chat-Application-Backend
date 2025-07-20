@@ -156,7 +156,7 @@ Made by [koushik](https://github.com/EdlaKoushik)
 
 ## 📧 Contact
 
-For questions or feedback, open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, open an issue or contact [koushikedla01@gmail.com](mailto:koushikedla01@gmail.com).
 
 ---
 
