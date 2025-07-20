@@ -142,12 +142,6 @@ VITE_API_URL=https://your-backend.vercel.app/api
 
 ---
 
-## 📝 License
-
-MIT
-
----
-
 ## 🙋‍♂️ Author
 
 Made by [koushik](https://github.com/EdlaKoushik)
