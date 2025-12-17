@@ -3,6 +3,7 @@
 A full stack chat app built with **MERN (MongoDB, Express, React, Node.js)** and **Socket.io** for real-time messaging.  
 Features authentication, user profiles, contact management, and instant chat with online status.
 
+backend-url https://full-stack-chat-application-backend.vercel.app
 ---
 
 ## 🚀 Features
